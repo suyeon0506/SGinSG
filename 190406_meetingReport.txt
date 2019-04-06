@@ -1,0 +1,8 @@
+<190406>
+- git organization & repository 생성
+- commit Readme.md
+- 역할 분담 : 본인(DB & Server) / DB&Server(2), Frontend(1), Backend(1)
+
+<계획>
+- 190410 user 성향 분류 (meeting)
+- 190413까지 dummy data 생성(create table) / django 연동 방법 찾아오기 
