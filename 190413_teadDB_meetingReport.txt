@@ -1,0 +1,9 @@
+<190413>
+- django 환경 setting
+- django와 mysql 연동
+- sample mysql database "Users"를 생성하고 로컬 서버 admin page에서 확인
+- 참고 사이트 : https://tutorial.djangogirls.org/ko/
+
+<계획>
+- 190414 전체 meeting 캔슬
+- 190416 : 회원가입/로그인 db 구축, 회원가입 시 User 속성 결정, 저녁 먹기
